@@ -1,0 +1,22 @@
+"C:\Program Files\Java\jdk-21\bin\java.exe" -Dmaven.multiModuleProjectDirectory=C:\Users\alexe\IdeaProjects\maven -Djansi.passthrough=true "-Dmaven.home=C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\plugins\maven\lib\maven3" "-Dclassworlds.conf=C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\plugins\maven\lib\maven3\bin\m2.conf" "-Dmaven.ext.class.path=C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=58059:C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\plugins\maven\lib\maven3\boot\plexus-classworlds-2.7.0.jar;C:\Users\alexe\AppData\Local\Programs\IntelliJ IDEA Community Edition\plugins\maven\lib\maven3\boot\plexus-classworlds.license" org.codehaus.classworlds.Launcher -Didea.version=2023.3.3 compile
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< org.example:maven >--------------------------
+[INFO] Building maven 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ maven ---
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ maven ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 1 source file with javac [debug target 21] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.355 s
+[INFO] Finished at: 2024-03-14T13:37:32+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
